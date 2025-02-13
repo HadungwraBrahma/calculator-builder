@@ -1,4 +1,4 @@
-# 📌 React Assignment: Calculator Builder
+# 📌 Calculator Builder
 
 ## 🚀 Live Demo
 Check out the live demo: [Calculator Builder](https://calculator-builder-hadungwrabrahmas-projects.vercel.app/)
